@@ -1,0 +1,25 @@
+# Core dependencies
+langchain>=0.2.10
+langchain-community>=0.2.10
+langchain-openai>=0.2.0
+langchain-chroma>=0.1.0
+
+# UI
+gradio>=4.29.0
+
+# Embeddings and ML models
+sentence-transformers>=2.7.0
+
+# Vector store backend
+chromadb>=0.5.3
+
+# Utilities
+requests>=2.31.0
+
+# Optional: if using Ollama locally
+openai>=1.30.0
+
+# For PDF and text parsing
+pypdf>=4.2.0
+unstructured>=0.15.0
+
