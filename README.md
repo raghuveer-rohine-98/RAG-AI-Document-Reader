@@ -37,7 +37,7 @@ Follow these steps **exactly** — even if you’ve never set up Python before �
 If you have Git installed:
 
 ```bash
-git clone https://github.com/<your-username>/rag-ai-doc-reader.git
+git clone https://github.com/raghuveer-rohine-98/RAG-AI-Document-Reader.git
 cd rag-ai-doc-reader
 ```
 
@@ -54,7 +54,7 @@ python --version
 ```
 
 If it shows something like `Python 3.10.x` or higher, you’re good.
-If not → [Download Python](https://github.com/raghuveer-rohine-98/RAG-AI-Document-Reader.git) and install it.
+If not → [Download Python](https://www.python.org/downloads/) and install it.
 
 ---
 
